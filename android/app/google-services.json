@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115125563683",
+    "firebase_url": "https://tagti-7bded.firebaseio.com",
+    "project_id": "tagti-7bded",
+    "storage_bucket": "tagti-7bded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115125563683:android:cb9df04de6429a1643dc96",
+        "android_client_info": {
+          "package_name": "tag10.onlineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115125563683-9nje6j7mnm189jvfoikjog3kmsu1b8ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAU9hvD26TOgI9rBbBOHMihhHISAYLgmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115125563683-9nje6j7mnm189jvfoikjog3kmsu1b8ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
